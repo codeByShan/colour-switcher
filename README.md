@@ -28,7 +28,7 @@ A simple **DOM (Document Object Model) project** that allows users to change the
 ## 🎬 Demo
 
 You can see the project **live** here :  
-👉 [View Project on GitHub Pages](https://codeByShan.github.io/colour-switcher/)
+👉 [View Project on GitHub Pages](https://codebyshan.github.io/colour-switcher/)
 
 ---
 
@@ -77,6 +77,33 @@ git clone https://github.com/codeByShan/colour-switcher.git
 6. 📄 **License** :
 
 - This project is licensed under the **MIT License**.
+
+
+
+🎯 **Why I Built This Project** :
+- I built Color Switcher to strengthen my **DOM** manipulation skills and to practice handling user inputs dynamically using JavaScript. It was also an exercise to understand how front-end interactions work without relying on **frameworks**.
+
+-This project helped me experiment with:
+
+-**Event listeners** and user input handling
+
+-DOM updates in **real-time**
+
+-**Validating** user input for robustness
+
+
+
+📚 **What I Learned**
+
+How to dynamically update **HTML** elements using **JavaScript**
+
+How to validate inputs (like **color names**, **hex codes**, **RGB values**)
+
+How to make a lightweight and **interactive UI**
+
+Using **GitHub Pages** for **deployment** and sharing live demos
+
+Best practices for writing clean and **organized code**
 
 
 ## 👤 Author
