@@ -78,9 +78,8 @@ git clone https://github.com/codeByShan/colour-switcher.git
 
 - This project is licensed under the **MIT License**.
 
-
-
 🎯 **Why I Built This Project** :
+
 - I built Color Switcher to strengthen my **DOM** manipulation skills and to practice handling user inputs dynamically using JavaScript. It was also an exercise to understand how front-end interactions work without relying on **frameworks**.
 
 -This project helped me experiment with:
@@ -90,8 +89,6 @@ git clone https://github.com/codeByShan/colour-switcher.git
 -DOM updates in **real-time**
 
 -**Validating** user input for robustness
-
-
 
 📚 **What I Learned**
 
@@ -105,7 +102,7 @@ Using **GitHub Pages** for **deployment** and sharing live demos
 
 Best practices for writing clean and **organized code**
 
-
 ## 👤 Author
+
 - Name: **Zeeshan Ali**
 - **GitHub**: [codeByShan](https://github.com/codeByShan)
